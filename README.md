@@ -35,14 +35,7 @@ This project explores the history of the UEFA European Championship (Euro Cup) w
 * Spain is highlighted as a top winner with 3 titles. A total of 11 distinct countries (treating West Germany/Germany as one entity) have won the championship.
 * An information button was added for the Soviet Union win, providing context since the country no longer exists.
 
-
-
-
-** Add picture here
-
-
-
-
+![Information button](infobutton.png)
 
 
 * The report indicates the last time the data was refreshed.
