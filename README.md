@@ -23,22 +23,22 @@ This project explores the history of the UEFA European Championship (Euro Cup) w
     * Visualization of winners geographically using map visuals.
     * Development of different visual approaches over time to better represent the data.
     * Inclusion of a "Last Refreshed Date" display on report pages for data timeliness context.
-    * Added an interactive element (information button) on the map visualization specifically for the Soviet Union to provide context, as the country no longer exists[cite: 9].
+    * Added an interactive element (information button) on the map visualization specifically for the Soviet Union to provide context, as the country no longer exists.
+![Information button](infobutton.png)
 * **Code:** DAX was used within Power BI for calculations needed for visualizations, such as counting wins per country. Power Query M language was used implicitly by the Web connector and potentially for the refresh date logic.
 
 ## Key Findings
 
 * The report identifies all countries that have won the UEFA European Championship since its inception.
-* Germany/West Germany and Spain are among the most successful nations, each having secured multiple titles.
-* Other winners include France, Italy, the Soviet Union, Czechoslovakia, Netherlands, Denmark, Greece, and Portugal.
-* The visualizations display the temporal distribution of wins across the tournament's history.
 * Spain is highlighted as a top winner with 3 titles. A total of 11 distinct countries (treating West Germany/Germany as one entity) have won the championship.
 * An information button was added for the Soviet Union win, providing context since the country no longer exists.
-
-![Information button](infobutton.png)
-
-
 * The report indicates the last time the data was refreshed.
+
+![UEFA Page1](https://github.com/user-attachments/assets/7dfb9dd6-a717-4d32-924e-2e5c44694bee)
+![UEFA Page2](https://github.com/user-attachments/assets/e7db13ec-16f7-463a-80d5-040a7c69bbf7)
+* Note on structure: Pages 3-4 of this four-page report present improved visualizations compared to the initial versions on pages 1-2, aiming for a better viewer experience.
+![UEFA Page3](https://github.com/user-attachments/assets/a5508db8-d084-422c-b648-da6be10cf09c)![UEFA Page4](https://github.com/user-attachments/assets/b9e7341f-3fe0-4461-a67e-78c989d7a43b)
+![UEFA Page4](https://github.com/user-attachments/assets/46b37bbc-abca-4518-9764-464d89b2f3f5)
 
 ## Future Work / Limitations
 
