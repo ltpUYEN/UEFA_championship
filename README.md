@@ -37,7 +37,7 @@ This project explores the history of the UEFA European Championship (Euro Cup) w
 ![UEFA Page1](https://github.com/user-attachments/assets/7dfb9dd6-a717-4d32-924e-2e5c44694bee)
 ![UEFA Page2](https://github.com/user-attachments/assets/e7db13ec-16f7-463a-80d5-040a7c69bbf7)
 
-* Note on structure: Pages 3-4 of this four-page report present improved visualizations compared to the initial versions on pages 1-2, aiming for a better viewer experience.
+** Note on structure: Pages 3-4 of this four-page report present improved visualizations compared to the initial versions on pages 1-2, aiming for a better viewer experience.**
 ![UEFA Page3](https://github.com/user-attachments/assets/a5508db8-d084-422c-b648-da6be10cf09c)
 ![UEFA Page4](https://github.com/user-attachments/assets/46b37bbc-abca-4518-9764-464d89b2f3f5)
 
